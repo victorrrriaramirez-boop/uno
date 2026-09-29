@@ -11,7 +11,7 @@ Sitio ficticio e independiente: arquitectura minimalista y recorrido horizontal 
 
 ## Personalización
 
-Cambia nombres, textos, fotografías y el enlace `mailto:hola@ejemplo.com` antes de reutilizar esta demo para una empresa real. Las imágenes de ejemplo se sirven desde Unsplash y las fuentes desde Google Fonts; para una entrega de cliente conviene usar materiales propios y comprobar sus licencias y disponibilidad. Las animaciones respetan `prefers-reduced-motion`.
+Cambia nombres, textos, fotografías y el enlace `mailto:hola@ejemplo.com` antes de reutilizar esta demo para una empresa real. Las imágenes de ejemplo se sirven desde Unsplash y las fuentes desde Google Fonts; para una entrega de cliente conviene usar materiales propios y comprobar sus licencias y disponibilidad. La navegación móvil incluye un menú desplegable; el scrolltelling se adapta al tamaño de pantalla y las animaciones respetan `prefers-reduced-motion`. Los asteriscos y estrellas decorativas se han eliminado.
 
 ## Vista local
 
